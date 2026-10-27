@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#azul {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+#cards {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: darkmagenta;
+}
+
